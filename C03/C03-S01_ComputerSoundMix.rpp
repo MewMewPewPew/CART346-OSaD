@@ -1,0 +1,2483 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1791674971 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 128
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 0.08333333333333 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0.10714285714286
+  ZOOM 92.87468903448328 0 0
+  VZOOMEX 4.6645298 231
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C03\C03_S01_ComputerSoundMix.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 0 0 10.571 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 140 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 7.71428571428571 7.07142857142857
+  SELECTION2 7.71428571428571 7.07142857142857
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {01812DD8-8404-4E67-BBA4-7093C32C6428}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {C7543342-31C7-4520-AE31-C3FFE5C9A21C}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {48FB1299-E2BE-4D75-8999-F8D25FF95A7D}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {81048CDB-423A-400B-9C64-EAD4F3B00D41}
+    NAME C01-S01-ComputerBreathing
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {81048CDB-423A-400B-9C64-EAD4F3B00D41}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.00857142857143 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7B46914-3FED-4449-B867-79218D763A11}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.16666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF233C6F-FC76-4074-A029-C1318C8A17B2}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.85714285714286
+      SNAPOFFS 0
+      LENGTH 3.42857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F30DDE4A-556D-4C4E-B814-42CD10700F3D}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.16666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAE0B14C-65F8-4CAA-BF59-A0D31B440843}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {8BC44956-7987-4102-A122-E90169B65740}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8BC44956-7987-4102-A122-E90169B65740}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10C3E3BD-74BB-4C89-A3E7-9516EDF8DA7C}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 4.66666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02544E89-2405-4A41-BA70-61B0FB0B2242}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.71428571428571
+      SNAPOFFS 0
+      LENGTH 0.42857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F15908AF-1515-43FC-82FD-D4BF928F5CEB}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 9.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CE7FEE3-D3D1-469E-BC9E-E16A7B9A56C9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.57142857147846
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E412014-2C21-41CE-9D08-E7808CD17CBC}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666883969 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A0AB02E-0A14-494E-9DCC-042ABECEFF44}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00570379692174 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D43D8EC-4D64-4C41-9B11-3130A773B5BE}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 55.99999999348285 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E3298EE-E1D9-43F7-A559-1FFB5FF35376}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EAC9A34F-A581-44DF-8DC9-6141EEDD83C7}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 4.66666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC4575C8-6F56-4372-A816-23FB33237456}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.71428571428571
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70DA372A-46C1-44F0-AAEF-419176387253}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666884052 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94A32064-8A75-499C-B7F6-F22435154A4B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.14285714285714
+      SNAPOFFS 0
+      LENGTH 0.42857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D51BD84-1704-4D46-8562-72C0F773F14F}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 9.33333333333334 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1DE1684-2DF5-48D7-AACA-01517E2F22A1}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.00000000004989
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AED3CD57-139B-4BF1-B0B0-8FB2C72E2572}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.6666666688402 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96B3941F-B3C8-40C2-AB9F-BCB5295661E1}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFC125D9-F1D3-432D-BF4F-1061A02EB5B9}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 55.99999999348088 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F4410DD-3371-4667-94E4-A4CCC816715E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.85714285714286
+      SNAPOFFS 0
+      LENGTH 6.85714285714285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2185DBBB-C3B0-40C2-840E-5CBA32371C22}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AE98AFC-4C6B-443A-BF12-7CA220574510}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.71428571428571
+      SNAPOFFS 0
+      LENGTH 6.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02FC59E3-FEAD-4BED-A9C8-7754EE7BE540}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A5F5C9B-A12A-4E75-A7BE-21188D678DF3}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {8EFA186D-0A52-4DA0-9DDF-70D6BC067B4C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8EFA186D-0A52-4DA0-9DDF-70D6BC067B4C}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7.14285714285714
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A4D30ED-1D9A-4C8E-8A18-AD8C8078AD6E}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.16666666665697
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40FEF67A-7559-4484-BD4F-4EBD81E7B407}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.28571428571429
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {270DE4F7-68FD-4D47-B7AC-079C9956CA23}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.2499999999903
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68E9153A-2E62-42B1-A6B5-8B7F642DD4A0}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.92857142857143
+      SNAPOFFS 0
+      LENGTH 0.10714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0722C6B-B9F5-436A-893C-41BDDCDFFF25}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.4999999999903
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF298752-CAA6-4E98-A957-06588E654018}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.57142857142857
+      SNAPOFFS 0
+      LENGTH 0.21428571428572
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB0A4825-C61D-4129-AC84-BD6F25C65487}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.99999999999029
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F4A449F-6204-4210-96C0-901DB9BEC2B0}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.21428571428571
+      SNAPOFFS 0
+      LENGTH 0.21428571428572
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12CE9C6F-8E06-43FF-B757-4EC78FBEA880}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.37499999999029
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E0024E9-B0A6-4D94-BB8B-447027FB04A7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {43B205EE-845E-4CB0-B50A-E0069FDF4A41}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {43B205EE-845E-4CB0-B50A-E0069FDF4A41}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.85714285714286
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B61B0970-F7E8-439C-9229-4CE1C8D504B6}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF51C47C-8FF3-4BBC-97C0-3CB7F8C85CBF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63211657-B0C0-4B44-A598-3238885744CC}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.08333333333333
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46310749-9240-4233-B8D5-653C88545284}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.28571428571429
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3ABB241E-7511-416D-ADF4-BCDA1369CFFD}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.25
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7BA381A-883F-4B4E-9783-59A720D43A7F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07051E66-1B52-49B4-8134-544F6BBA7452}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.33333333333333
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EEA32476-8351-4BF7-A499-EF0899F8AFD2}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.71428571431898
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1411D6AE-1D53-4A96-9283-28B91347AAF3}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 0.58333333333335 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {681F6D36-EEAD-48C4-97F6-360E7C24D136}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.85714285715949
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2906C3E5-59EB-4D59-93B6-5B45329DC2A2}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.08333333333333
+      PLAYRATE 0.58333333333335 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B115F66-4469-4E20-B138-C8F68536DF47}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.14285714284051
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {621A4F53-F130-4078-B1A2-DB9E2DC14AE3}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.25
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90A2CE94-70CF-43A3-AB34-30FEF0F67701}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.14285714285714
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A801F33C-79CC-4FF3-9084-8ED473AF2A02}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.75
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BC164E9-6F91-43C9-8058-B88A348C1B60}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.28571428568102
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8883A0AE-D866-46B4-BA9E-3D40557602C9}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.33333333333333
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4D30BA8-67F0-4CAE-B590-7B278726415A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26BB5FC3-F482-429F-8BE1-F1DC77FC49D2}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.91666666666666
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D22C30AE-FC49-4BC3-89E6-7823435A4D11}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.78571428571429
+      SNAPOFFS 0
+      LENGTH 0.14285714285714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C582D796-C23C-4AC7-B0A0-6F7FBD6B2635}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.125
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83013638-633C-4D9A-AD8A-9ED480697B4A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20D4E032-549C-48B4-894A-1CAB8814B01A}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.25
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC0FA73B-CE6C-4ADC-A46A-B243A8D445A9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.21428571428571
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A735116-1761-4C5D-9324-D6A2187CF417}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.375
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {538E31DB-B7AF-4E99-A45E-3364E4AB1A03}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.14285714285714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6A01AB7-C5F0-4469-9982-B534D6F37C9E}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.5
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EF77FEA-8E25-4EEC-A6BE-9EB522013FAE}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.64285714285714
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50984F38-C932-47E2-82E0-3410E2F4097B}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.625
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67348BF4-6CB9-4A96-98EA-CD368F27633F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.78571428571429
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B20D1FAC-5A90-473B-9987-41EF3FB31546}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.70833333333333
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FBC68E8-3C43-44A2-AAE1-934749BEA878}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.85714285714286
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A2DD13D-BC07-4612-A43A-3DFDAC1E913B}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 0.58333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A16A826-0FDA-4A60-9F1F-DD4016AD7E86}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.07142857142857
+      SNAPOFFS 0
+      LENGTH 0.03571428571429
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDB7E015-C7F9-49FB-8A4A-9B1A0ADD911E}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 0.58333333333335 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D93D6DE7-27D1-4DE2-A2B1-D3EC13C74652}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.28571428571429
+      SNAPOFFS 0
+      LENGTH 0.17857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00402552413208 0 1 0 0 0
+      FADEOUT 1 0.06305761663603 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0C424650-6007-4602-8B28-61334694634E}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.30556212353022
+      PLAYRATE 0.62222222236722 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C4377BA-8FE1-44B5-A811-C905B153372A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {AEA98315-E901-41D5-AEA0-6F5F9B615533}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AEA98315-E901-41D5-AEA0-6F5F9B615533}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.28571428568102
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5038E80D-906C-491C-866E-6384012AF70A}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.9999999934701 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F760BF2-C64A-4CD9-ABA3-7AC736675064}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCB0094D-62C2-41F1-B2BF-C04825058930}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999346871 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EF8744B-5F3F-4D08-A277-B8C4B61D748A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.57142857147846
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2E91722-5E21-4CB3-A33B-39FDC982E58A}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347671 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8896651C-1239-42A2-919D-29B4A3E68F2B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D766AE72-CB75-42E6-9B9A-78EA42B13272}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.9999999934694 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96F1D8F2-1EC8-45EB-88C5-59E913EDA102}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.21428571431898
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {347992B1-6F1C-48DB-98CF-BAE98E736782}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.9999999934694 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DF3CA28-070D-42F4-820D-B5CA67F29EEE}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.28571428568102
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34B58AF2-9873-4DC0-9747-F8AFD73637E4}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347707 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F4142B8-A720-4741-81E5-508CE2CE4C7D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.85714285715949
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59BAB42D-240E-46A1-997F-E571706E9247}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347079 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1774EC2B-0BE7-471E-9D30-4E0AC2B900E7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.07142857147846
+      SNAPOFFS 0
+      LENGTH 0.03571428571429
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5553B592-C1A9-4456-801F-EE5ED889CEDF}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999346662 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52DA0F1E-39E5-46C1-87D0-B7CF0542C00B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.14285714284051
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E05B2DF-32FF-4FAE-9A61-6AB0E953E609}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347776 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBB3D369-E65C-4A0A-93F9-520F76A7F6A0}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55DAA4B8-DE3C-4983-A151-457EF9FBE8F6}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347079 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1F36821-14DB-49BA-B4B6-DB82FF5C2FC1}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.21428571431898
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C870229-41BA-476D-8B84-35AEEA12BC0D}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999346801 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98AAC636-49CE-4550-9B74-70BBBD24BAD8}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.28571428568102
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06F948F9-052A-4D17-9655-DF76AC3EF398}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347776 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60773260-BC94-49E0-A7F7-FAFE5DF34E25}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A235E045-03C3-4F97-8E07-462CAEA3C266}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347677 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E49B750-EE97-408F-9394-84AD855E05FA}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.21428571431898
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5CF6E3D-FAD6-4779-98D1-2305940A2E37}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347538 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83D87C6A-4B9B-4C7D-94F8-711077446A71}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.28571428571429
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D349E8B-2CAF-481B-85C5-1BD1E90A86EB}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347677 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {166CE518-7283-42E9-A375-D799BBF528F7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.64285714285714
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC4B9184-498F-4D26-B646-1629D0F5B49D}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347497 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E4C645D-158F-43D4-BD40-BDE9DA438383}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.85714285714286
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0DA9059-9254-49DA-85DB-48A0058B4132}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347358 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B372D93F-BD61-4F31-9F87-6F8A025D1BF1}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.10714285714286
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16AB0341-48DA-49B4-8575-A2B0A0F92008}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999348135 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6D43394-07BC-44D4-9C3F-B854B7A382AF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.32142857142857
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AC75129-D83D-4A77-AF54-29AC34F3DE63}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347776 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {044A43BB-1CA6-4BA6-B912-8C260C4D3B3D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.53571428574755
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {423DB771-8D77-490B-A913-229F21C8C77B}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347358 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F19C701-E8BF-4697-8ACC-BF8091113E8D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.60714285722601
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00386993249409 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39FF9DA8-32B6-47DD-B3B6-2BE0E5EE6C26}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999976723
+      PLAYRATE 55.99999999347497 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C083AACC-B79C-4810-B241-E6B70372F706}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {F60BA442-7588-46A1-BC58-3347CF27F4B1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.78014983895686 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F60BA442-7588-46A1-BC58-3347CF27F4B1}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 5.35714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD2EF8C9-1813-4224-95C7-CD26EC65BAC1}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E78F0E5D-914C-4333-ACDA-CB2616E540FD}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.57142857142857
+      SNAPOFFS 0
+      LENGTH 0.21428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05BB488A-09F2-42F1-8E62-D09F1B60EBE2}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.25
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CC3E0C6-718B-4F10-845D-F5442CC8CF3C}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.21428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3B17E27-7088-48A3-9E64-6864B0909231}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.5
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C159BC06-F174-46AF-BEA9-2B0C5448FDC9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.21428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA94B939-D96F-4BB9-B68F-C0808460A25C}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.75
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9BE14EB-72D5-42E8-8E22-F6E196DA2DF9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.85714285714286
+      SNAPOFFS 0
+      LENGTH 0.21428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C863DD4-4BB0-43AC-9C3A-FA945D7A33E1}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.875
+      PLAYRATE 0.58333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D4C9F61-21CB-4BF8-9AAF-E8B914CBAF76}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.92857142857143
+      SNAPOFFS 0
+      LENGTH 0.10714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F51EC8E-F52D-4DA7-9F49-BF40518F5129}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.00000000023284
+      PLAYRATE 4.66666666666668 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F6161FA-82C6-4EBE-9A22-C4A8872259E4}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.25
+      SNAPOFFS 0
+      LENGTH 0.10714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3752090-0E64-4B65-A605-6F393A64C040}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.00000000023284
+      PLAYRATE 4.66666666666666 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F760612-BA6C-46DA-9E8C-688CE227881A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.57142857147846
+      SNAPOFFS 0
+      LENGTH 0.14285714280725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D0169B2-1F3C-47C8-8972-5FB93197B4AF}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 4.6666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5F976C8-6146-4767-AF99-573960E4ACCB}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.75
+      SNAPOFFS 0
+      LENGTH 0.14285714285714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A18A3E6D-5EE6-4609-B93A-C7014B1A20BE}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.83333333310052
+      PLAYRATE 4.6666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {706449F3-4BA1-43FC-82D4-C436C64FA6E9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.92857142857143
+      SNAPOFFS 0
+      LENGTH 0.03571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4DB6248-07C1-4C8F-88A3-B2B79D3791A5}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.66666666643387
+      PLAYRATE 4.6666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA085AE1-8322-4EF9-A730-C142B9025205}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.14285714285714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7EE003E-45F9-461D-89DB-616E4C370448}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.9999999997672
+      PLAYRATE 4.6666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96F44A09-8450-4881-B42B-437F1A660A57}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.21428571428571
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4E3C439-165D-417A-8719-FE4832446868}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 10.9999999997672
+      PLAYRATE 4.6666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D05D0B7-CFF3-43F4-AFE2-E1794C644CBD}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.35714285714286
+      SNAPOFFS 0
+      LENGTH 0.07142857147846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.06142857147846 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {983F2B96-9D40-42E1-A01B-E06509D964EE}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.66666666643388
+      PLAYRATE 4.6666666666667 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FB4FE70-9F11-4565-802F-8365860087FF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {C553BA4D-990E-4F97-B697-979BFF0C8D5F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C553BA4D-990E-4F97-B697-979BFF0C8D5F}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.71428571431898
+      SNAPOFFS 0
+      LENGTH 0.21428571423582
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02640373467027 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3381BF0C-2561-4FC5-B17A-94B0827F686B}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666884016 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF0F00C2-CA74-4B27-B1DE-A9BE2FA6766E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.14285714285714
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1656034E-0478-4E91-A8F3-B6846F488DBC}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999348054 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CFAA01C-E649-4CED-8DA0-81D0D00F2CD9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.57142857147846
+      SNAPOFFS 0
+      LENGTH 0.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0.3471733032065 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA30DF7B-94BD-4E36-9B26-74A1E3F31229}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 4.66666666666669 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {243B9B9B-0C20-4868-A049-123B2A642622}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.85714285715949
+      SNAPOFFS 0
+      LENGTH 0.42857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09D4BB11-EBAE-4641-86EE-CFB893421C28}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 9.33333333333337 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3709CF6-C742-4D86-9707-D31A1478108D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.28571428568102
+      SNAPOFFS 0
+      LENGTH 0.21428571423582
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02640373467027 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {079FB292-6865-4D92-B9FA-5CC136806262}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666883977 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C63D2A6-A3C3-4FCF-9631-809542EBF145}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.71428571431898
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33A6FA19-E682-49CB-86DC-112564CA0DC4}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999347704 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {783E208A-AC7A-431B-AEEB-90A042E61135}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.92857142852154
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10480211-7A13-436A-8507-B3DDD40EB804}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999347704 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA03CC65-140A-4CEF-9AF5-11FDD23717B7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.14285714284051
+      SNAPOFFS 0
+      LENGTH 0.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.45177982303371 0 1 0 0 0
+      FADEOUT 1 0.09753584734053 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FA92ABB-240A-42E0-A238-C8CEC8AED546}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 4.66666666666671 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B84CCA26-535F-4798-BDD2-93D0A3CF0F87}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.21428571431898
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04445146-B203-464A-AA95-E458F3CF5CA5}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666884069 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {980D8756-8B85-45FC-9B17-CB3F88ACCF0A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.85714285715949
+      SNAPOFFS 0
+      LENGTH 0.21428571423582
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02640373467027 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0227DF41-6309-472F-BFF1-9E60EE40C4EE}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666883998 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7D4D1A5-9312-4356-88F9-3F183EBD9BA8}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.28571428568102
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9559116-7CC7-4D5F-A9AC-9B4D269AC38A}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999347913 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E02F5B6-2A0F-43DC-93B1-F8770834D5E9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E5E6128-D740-4EB2-9178-DFB7B57068FA}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999347632 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {572B6287-E023-4448-B55C-282938069C9C}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.71428571431898
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CBBFC7CF-0700-4BA7-A4F7-70D1BA2D761F}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666884101 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9197CE78-21C7-4C56-97CB-D37D9DD18751}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.14285714284051
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89833E59-79B7-49CF-B0F4-97EEF935D10A}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999347632 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99D6CD4E-7E50-4FB7-9BFC-43EDDFDC57B5}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.35714285704307
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DF3D0BB-6E6F-457D-85AA-0C1D5AC36F9C}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.99999999347632 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BED9985-7858-47D9-9057-6E43941DEA64}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.57142857147846
+      SNAPOFFS 0
+      LENGTH 0.21428571423582
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02640373467027 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {273016F6-F7DE-4A25-A6DF-2FCB29DE38E7}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666883989 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5904014-A3DC-40A5-9DCA-ADCED7A9608B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BB421B7-4A40-428A-81AE-D2584C5BCEC1}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.9999999934798 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01EC27F1-550A-41BD-A549-3E881E922211}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.21428571431898
+      SNAPOFFS 0
+      LENGTH 0.07142857141194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02028033030201 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29B99C80-99A6-4F73-B499-5DBCAD82860C}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.00000000093132
+      PLAYRATE 55.9999999934756 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20F972FD-1B89-481E-8E1D-31A134038236}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.42857142863795
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42138D45-FFEF-4252-AC76-5B0DDDDEDE83}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 18.66666666884118 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55DEF3AB-DE3F-4419-8EBE-CD664DA20F37}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {4309D877-9246-4FBC-B1A1-11D7E6351F21}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4309D877-9246-4FBC-B1A1-11D7E6351F21}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.57142857147846
+      SNAPOFFS 0
+      LENGTH 0.21428571423583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00857142857143 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F110E27-38B4-4429-AF71-90D54C389E6C}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 9.33333333333339 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDC7D125-45E8-458F-AC63-57D0800E1167}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.2142857143356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D65FD04-4287-4998-A6CD-5C51C2AA52F3}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999953438
+      PLAYRATE 9.33333333333339 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2E72AA2-AAD7-4830-855D-727F76608FD7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.64285714285714
+      SNAPOFFS 0
+      LENGTH 0.2142857143356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFD8BFA8-E697-467E-AD35-E93BD677647D}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999953438
+      PLAYRATE 9.33333333333324 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0F2BDE5-9C92-40B9-88D8-208B067284BA}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.60714285714286
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.06481715518236 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92AF47BD-9CBB-4DD8-83D9-2F66F723D86C}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999953438
+      PLAYRATE 9.33333333333324 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93B28C7B-8ED5-4079-B0CB-4A46638C9AE7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.92857142857143
+      SNAPOFFS 0
+      LENGTH 0.10714285717612
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1EB4DC57-0B62-4FAC-9683-3BB61B192DD9}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999953438
+      PLAYRATE 9.33333333333344 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A63FA7E-C081-4A21-92BF-CF80A668EDFC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.14285714284051
+      SNAPOFFS 0
+      LENGTH 0.10714285717612
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D93E011-42C4-4012-BEC3-714B69E1B21D}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999953438
+      PLAYRATE 9.33333333333345 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92B579E1-AC08-4C0A-8312-4571710CF7B6}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.32142857136205
+      SNAPOFFS 0
+      LENGTH 0.07142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.06481715518236 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA07CF7D-BB82-4513-8C54-F6838E64F79A}
+      IID 1
+      NAME C01-S01-ComputerBreathing.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.99999999953438
+      PLAYRATE 9.33333333333355 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2635F857-5FC9-49C7-A691-CD97C8314AD8}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S01-ComputerBreathing.wav"
+      >
+    >
+  >
+  <TRACK {B28987CD-B6B8-469B-9E5E-A0AB3C9B453B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B28987CD-B6B8-469B-9E5E-A0AB3C9B453B}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
+>

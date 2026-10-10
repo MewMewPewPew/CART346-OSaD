@@ -1,0 +1,2984 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1791675040 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 128
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 0.08333333333333 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 8.75
+  ZOOM 67.87969029378851 0 0
+  VZOOMEX 6 250
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C03\C03-S04-BikeMix.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 0 0 10 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 3.375 7.625
+  SELECTION2 3.375 7.625
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.31512284826423 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {689E03B6-24CF-41AE-BA9B-205F335FEED7}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {E8BF56AB-AC25-454E-B12C-67A8FF95521F}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {CD5F4F03-D292-4260-A0A3-D110D98C65D6}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {D039B7D2-8ABB-4F8B-A659-E5E26822B6F4}
+    NAME C02-S04-Freestyle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D039B7D2-8ABB-4F8B-A659-E5E26822B6F4}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E826B828-C593-44EC-8FA1-AE809D90F0B7}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {110166E0-D8AE-49B6-8E07-C0F44BB52493}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {226D4D53-6794-4A0F-BF7D-E299C6756082}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F37D9FF7-037F-481B-B7BA-1AF4AA5134CC}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4.25
+      SNAPOFFS 0
+      LENGTH 4.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14A40123-E936-4096-A443-38B722259CBA}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D2113D3-7C7D-407C-9A9B-E52A067D3C6C}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 8.625
+      SNAPOFFS 0
+      LENGTH 1.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10F9A1A2-159C-425E-8362-3FF67BF5AFB2}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C7FFD42-E78D-4A38-B9B8-BA70756C80D8}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 10.375
+      SNAPOFFS 0
+      LENGTH 1.625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F19FDB04-9426-445D-8C9D-7F61CB89642F}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 10.375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DCAFD8A-E94F-4820-BFB4-1B2A2C4C5449}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+  <TRACK {15A3F73F-3CC5-41DD-A8F8-61AB1BB5E28B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.26386553538292 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {15A3F73F-3CC5-41DD-A8F8-61AB1BB5E28B}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.41666666670548
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {801636FF-2099-427B-9B21-C4CDDD5533EE}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6DB1927-F124-43A5-BFE3-7D4C140FF519}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D08ED270-867F-4DBE-B891-AFFFFACC170F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.91666666666667
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEEBC4F6-2DD8-4422-97EE-2297C84A0767}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BB1F96C-A980-43A9-B285-591467C2F521}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E204B0BE-F78C-44DF-BA2C-6E536646558B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.04166666666667
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24F7FCBF-21BE-487D-BC39-A9257D462FDE}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71ECC92D-0E82-4EFF-B762-83A794AAAA3B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CB3A085-30E5-4084-8134-66DBAEA29107}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.16666666666667
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB5F4C57-8866-4E43-A637-B3C450CC3F51}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2FA15FA-3EF5-4F34-A639-D3F391A5656D}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7F962A1-82AF-41EA-B4D1-E33E956A71B6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.83333333333333
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B22F306-E6A0-40D3-80CC-6E52D2749BB6}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D1F512D-3FF2-41B0-A10D-FD442AE0901B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAC4E1AE-DEA7-4929-B303-75E09980A000}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.91666666666667
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64C03F24-F0AB-4885-9F34-ACB1F6987E04}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05722397-460D-490A-A489-F21692EA37A9}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDFC3A60-03A1-494A-B65A-3F30B430BC9A}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.16666666666667
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22B59739-EC37-4FB4-B603-96A732571834}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A461D1DB-1E9F-4202-BE5C-41C7361980D9}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F0881D9-2D78-4057-ADD2-F81EED3B69B8}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.25000000003881
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BB30BC3-995D-4CF9-A07B-28E36E6F1BEC}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B6F606E-4EDB-4FE2-9663-C15E13322E17}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B98407F6-F022-4234-88F2-31C01803D7A0}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00F268CD-7B30-4489-8783-B52FE2BF71E8}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59BA2F9C-B7B7-4680-ABFF-B9129AA2F817}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E541E966-C406-47C2-A9A8-212168B9BA73}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.58333333337214
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2C04E76-69C1-4C1B-952F-69FC0C682C19}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48775EE5-37BD-4710-9E07-296FE91EDA80}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA615927-F6BD-431F-884B-CBE1D176A7DE}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.70833333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FFB4772-E2F1-4B4C-8D1C-1FA0CBF53F09}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E64ED26-AD42-4950-A1FD-A20FB039F224}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9C3282A-21BD-4EC7-AD0A-3CCE9CBAEF40}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.79166666662786
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8421EFBD-E16D-4C72-830F-5F45FFA80658}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68BA4D1C-D273-4C6F-BAB1-3AB0DB0E54E4}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DF1D274-8D40-4479-9FBE-80A4A61A6A37}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58F4822D-958E-4AFD-AFAC-FE7693A5A503}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {754D97DD-4147-4DA6-BD59-169DEF18B91F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {776CA439-7C22-4ED4-8B58-D6878E74D9F3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.25
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81A5ABE9-A001-4407-AD2F-E605A97DF28D}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C8BE774-03A8-43E3-A27B-F3AAA231AF08}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B62E536-FA84-47C8-A691-1CDB1EA055D0}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.33333333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3315EC84-EFD3-472B-99A2-893671322E56}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {976378C3-E365-4C2E-B8D9-6D694CB1FE17}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21FC3EAA-9506-4AC4-AC59-41EE085BF62C}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+  >
+  <TRACK {193283C9-E796-42DA-95CA-18621941A463}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 2.90246012569281 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {193283C9-E796-42DA-95CA-18621941A463}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3730D6C-32F6-45D5-9A59-A2C821260A42}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1.640625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BE58F18-7B4A-4FEC-B2F0-1C728A3D4632}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F587B83-9CC8-4939-911A-21442076BA2E}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1.640625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4900A121-DE45-455A-AF24-8922B8DC38D7}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA784B87-CE2D-433F-94F7-50E43679DCB2}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1.640625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19DB3B58-EAE7-47BB-B568-E61D93602B72}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2CD0FE91-0097-4C00-BABA-E204B6639434}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1.640625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {455F3442-9880-436C-A275-B186E82DACA2}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5698DB81-D83F-4EF5-9E60-C1B0638A72F2}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1.640625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27274ACA-C9F6-407A-AB7C-E0E661CB5023}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0D97D4A-109D-49DF-BD15-00DF6207D111}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.625
+      PLAYRATE 1.640625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C3D3F91-34FD-4C71-BDBE-B9A8E9873370}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+  <TRACK {7C010DC2-9DC1-49EE-B5A0-E1C9749DF541}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7C010DC2-9DC1-49EE-B5A0-E1C9749DF541}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.95833333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C7697DF-9A14-42EB-BC41-5EAAEA4AEC1F}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3199087F-3A5D-458F-9282-E82F368515C9}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DDC50FB-52C9-4F88-828D-55A5D6B7594B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.04166666662786
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE7EDB61-5B97-45DE-96B4-4C4B45317C87}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {663A48A1-ADE8-4A36-BEFA-DB7FD6F07DEA}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8908573F-2299-4D71-AA7C-82D1553CC02A}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.375
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F882E6F4-6FF8-4709-8CDD-6A53A4EA46C8}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1604B87-1DFB-4592-84CE-E03E618A5A80}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {459DCFF7-5618-4825-B6B2-2142E3BD09FA}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C253682A-D7EF-4CFF-865C-1AE0AE890676}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA5051AC-B213-4C6E-B8E6-93DBCFEBF65B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E46C5CF3-6576-468D-954D-8719C3C4A0D3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.625
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3E5014C-8FF7-4BB2-A814-9A993898FF19}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6188CA2A-7A76-4125-BB1D-417C2115BA20}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC796EC7-9D3F-4944-AB00-D706A95AB6C3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.95833333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85F66EB9-38B9-4341-AC91-335140402C32}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {447F56D4-EE6B-4A0C-9760-EE97406E3E03}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F145AC0D-36FF-4B1B-8D6D-536D560077F1}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.04166666662786
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43EC6638-7C58-4D20-903D-54A92F9FA8D2}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81D11EF2-E4D9-4AD7-BCDA-F4638A25E570}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAF22A44-8C79-4A78-9B1C-246DCD314AA3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.375
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {636C70E8-A7C9-4E7A-951A-39DCBAE38D8F}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5358898E-9D54-48A3-BD9D-B6EE9C0785A6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36FD2AEB-2DC0-489A-A54E-86238442DA60}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9ECE05BC-307B-458B-9875-92421AA9F3D3}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43CD83A2-5AC6-4C31-9DEC-84F0B342C0EB}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40093DD9-0832-4193-9CCF-433B58A0ABE7}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.625
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA92D41F-4145-41DA-A5AE-548C565006E7}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5684E273-8128-45BA-8291-7DDA5C6B057E}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3189ACA-A2E0-4566-97DC-75D75EEF563C}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.45833333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B3D325D1-04A0-45A1-95D9-B683DBBE9500}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A8A221E-38A1-4A59-A9B1-4435812FB4A8}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00034F99-1A44-45E4-A7E7-2D9EE8BA6E6F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.54166666662786
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36F56C1F-C271-4BD7-AE5A-D7DDCFF833D0}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8358B3D2-A7E4-4942-A494-069554260B6D}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E088F412-85B6-44E1-9382-9F7E2C7BF85C}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.70833333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C90AD1D6-3EEA-4551-A8FF-24BBB9EAB209}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42431CE6-5732-4BE4-975C-C6E9D25FA6B6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8EB0603-AAB7-4475-8C08-F325DF20DB26}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.79166666662786
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE1504B4-AA7A-4292-9A0F-253D561520AE}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06478ED7-60EE-4C27-999B-E43756783EEC}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88662B65-2397-4204-A67E-14865FB7946D}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.95833333337214
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCBF7914-9383-47D9-BEE5-1299C563D104}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D8CFB2A-E5C1-4871-9B31-20721B3886D9}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CADC57B-E8D7-43E2-9ABA-1B2CD1A61B7F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.04166666662786
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AA3EBDD-110D-433C-8012-D52F1426C796}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {307F43B4-9FAA-4838-A730-1B425B1B86A4}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F78A347-6232-48DF-AF74-E15FABC979A0}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.375
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1F76048-FABA-4354-9629-0DF6A9152059}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {687751D2-780C-4844-8265-7DE97C8A0149}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {295A54CB-B1CC-4432-AA26-CD4A33150A46}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7DA6F73-3985-4CE1-A9E2-8BDFAABE5B5B}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA27E3A5-DE72-4285-B128-213AEB46DF4B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81825B45-FC6C-42D4-B5AB-4FDBE8096FF5}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.75
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FFEF1CF-89B9-4DC3-871C-42AE78A15670}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44B21765-E90B-415F-820F-6BCAEF28B69A}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC64D08C-AB60-4E5D-8287-9AA921733453}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.37086525512859
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69B367C5-DD3E-46FA-9412-EEE157D51E05}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9071E84-27F5-4656-A434-AB73A1E4A905}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04E50FBD-501C-4118-A166-1282E6035EDB}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.49586525512859
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38DD6850-A29F-4CEB-B4EA-D2756824B862}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EF91F6E-5B13-4427-BAFE-703B7D47EDA9}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A3CA075-2C6F-472A-B92F-BBAE1457C922}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.62086525512859
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A76E6C3-3A28-4E24-BDCF-85A30631C237}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70A8AE7A-AEF1-485D-99E3-4EE0D12676E1}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FC7D173-8000-4DA2-A7C6-7C2C5DDC2EDC}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.875
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9ECF826-2ED7-4953-A2C2-2BA61ACFC8AD}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2831193E-3175-49F0-AEDD-067C283CCED7}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95186828-B657-4451-98C9-F7A5FBFF2E8C}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.99586525512859
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D58E9C6-FE25-4C39-AC2D-37D204FE2B13}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27F01F71-AA33-47E4-BDDE-C6BE3BDEB004}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {746EBD59-CEF3-4ADF-8810-5C9020D4432E}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.07919858850073
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB1F936C-EB4C-4B4F-96C7-4C0F5294F4DE}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF5EB0DC-0467-4C1B-B4C7-3121DB475B5A}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0964789D-DC4E-4D1B-8D05-62BAF5194861}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.16253192175645
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {383CEFE3-AA80-47BF-877B-0EADE5667B16}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EDF9526-FE9F-4E73-A346-F386D5E9405B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D416CE2F-1473-4DD7-AF59-CB48C06842D6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.49586525512859
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA405737-8445-4B75-9405-28E5B233438B}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CFB8C75-C466-4EC8-8364-7A7C278B77D3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DDB488C-A3FA-4DF2-87AD-2AE0FB1E690B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.62086525512859
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D9C65F8-7548-4ECE-940F-12AFB08B7391}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94677006-7158-4B00-A67C-762DD5E6D413}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E0289AF-2BD1-4DBA-B6ED-FC925056A18F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4385CF8-21C2-4212-AD7E-66645A283F82}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF73DD8D-9E29-4CAA-89EE-7A899AF11A3B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75B1DCD3-0C6D-42ED-B479-F91F80C70836}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.375
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {376EA30D-BB32-4273-BA90-6A32984F1EFD}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3EF8C0D-B8EB-410C-BB56-3E4AAC6B4C03}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {407A28AD-18DC-4AA9-A26C-E3EAC6C35974}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13E05693-9C0A-45B0-8B05-407E616408A8}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80F1C838-E430-46BC-BD04-6C16C951DC4A}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F006CF49-75F9-4659-8207-4C84A409AEA3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.625
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6653A2D0-B4E0-42E0-B8B5-C4C3A2E1DCDD}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {837CBD99-695C-45E1-A358-50E36B3E0FF2}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.0625
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F483FD0-4D15-4826-9D62-039800AE1EA6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.75
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2CBB8039-B9F7-4FE8-9069-1D4A32DD323B}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE190697-1B59-41EB-A535-5B2365E2747F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+      TAKE SEL
+      NAME "C01-S04-bikeRide reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0.10416666666667
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8E963B3-4B45-4C63-B403-0725513CB5BD}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide reversed 001.wav"
+      >
+    >
+  >
+  <TRACK {F03058A4-2A83-400D-9F27-F56F2057F166}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F03058A4-2A83-400D-9F27-F56F2057F166}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.25
+      SNAPOFFS 0
+      LENGTH 0.625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55DE7478-BB8A-4F66-BF21-11AA51119BC2}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.09411764705883 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8CD907E-83FC-47B8-8020-1131ED619C42}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 1.875
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B40563B4-F7A6-4433-B25D-CFA9EC06A641}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C324AA4-A595-4532-A610-C6FA155B5EB8}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 5.125
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {32FB1017-7745-4AB4-B738-E167E4633E7A}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB23CDAF-9696-4CB3-9724-7ECCAC48060B}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 6.875
+      SNAPOFFS 0
+      LENGTH 0.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F66B1E4D-5D70-47D4-862B-F2C558BDCA7A}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.07843137254902 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A0E68D2-4C45-4FE4-8220-77869081D33A}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 8.25
+      SNAPOFFS 0
+      LENGTH 0.625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96935E2C-AE4D-441D-A904-DCE6032B57AC}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.09411764705883 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AFE7404-537F-4BBE-B7FD-0261922879AF}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+  <TRACK {22A8B9DC-3F70-46D7-92EE-395DB236050F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {22A8B9DC-3F70-46D7-92EE-395DB236050F}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.33333333333333
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B20549F-D957-4404-80C4-5EC4E8C9C1BB}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DC33F3A-9994-4E39-A4F7-688FD810E2B3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA3C1FA2-6F98-4F0D-ABBF-477B636B910B}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAB3F962-4655-4B4B-8050-43B683E695D3}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 3.41666666666667
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {167BC04F-3139-476E-9154-C8CDB6EDF787}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54424B45-8A33-46E4-9766-C83139F45144}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4.75
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7EC7B4A-AD8E-4C57-BFAF-DBB854DAC615}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {263F0462-6CFF-47E8-B1AE-DCA4B3C0C4A6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA9C8B98-8FF1-4278-BFFF-429700696E86}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F70F8D3-3277-4000-9206-54F164187B1E}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 7.125
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFAE8FE4-169E-4D5B-91D1-BEF467602E50}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CBC22E9-4979-4808-B944-728577E654B7}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 8.875
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {599CA215-298C-4EFF-A8FB-FAC63BA1D5CB}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E95A7176-6692-4254-ABCC-DE4609D22CB0}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+  <TRACK {D7CEEF8C-6480-4AE7-B420-D2EB611A56C6}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D7CEEF8C-6480-4AE7-B420-D2EB611A56C6}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.875
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB0B43A2-8265-4BE3-961C-8FABBC2108DB}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBDE5B0F-D294-49C6-B23F-ABB8E816EF78}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 2.75
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6DB1A3F1-BEC3-48A4-A8A5-E07C23604E86}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1909CA4D-FEF2-4C63-9007-DB90BF582EAF}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C26A9A9F-075C-4D12-9755-EA327FD241CB}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB77E7E9-58B9-49C1-B4C1-02C0BB0EECA4}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4.25
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF77FB60-AA96-40E3-BF23-5F6D94C582F3}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCD84F95-00E5-49F5-9668-446AB345C547}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D178B23-AE01-4A40-AD5A-2782A403E23F}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B502A36E-BCB8-4F86-A44F-A87364FFA076}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 5.75
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18EBE7C9-DB30-4685-944C-6439AC17E2FB}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA820109-9B25-4C63-B6E7-E1754CC4381F}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+  <TRACK {C275AB14-AB3E-46CE-A25F-43EC8AFD59A8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C275AB14-AB3E-46CE-A25F-43EC8AFD59A8}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.54166666666667
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B9932A7-03E9-4ED1-9AB4-8753074A1A0C}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98DA0B0A-3B29-41D1-81E8-4E36FC61724D}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 3.125
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDA5FA44-18F8-4845-A679-FA012BC78B99}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9521540-7F0B-4028-8A57-8488002793BF}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 3.875
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B79B858-A6CA-4749-8E05-9FCB59BA8ED1}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B04FE9C-55BA-4A44-A209-291859CF00C4}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4.625
+      SNAPOFFS 0
+      LENGTH 0.45833333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55EBC456-CBD9-4693-BA57-7EB7A1A7056D}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15073529411766
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE776C66-2089-4221-898B-2B801DB27165}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 5.375
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0157A876-AEE3-4E3A-9037-E688B950E8FD}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6708B175-B8A4-4B41-90D2-C0A682DE1817}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+  <TRACK {2EECCE2A-0B91-4A63-929D-4F53663D953F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2EECCE2A-0B91-4A63-929D-4F53663D953F}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E77AF46-E44A-48C9-BE36-F6481336E55D}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0B1F16B-7310-4943-A855-F4D877EB37AB}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 3.625
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F5A213C6-062A-4926-8850-B5FF34789B5A}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A511FDCD-4B44-479E-9DD0-1796DA947189}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 4.375
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61520830-7CE4-4A61-A17B-2D53DA91BAFD}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {976CB7D7-140F-4032-98A1-26B1986C4EC6}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+    <ITEM
+      POSITION 5.125
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4DA7AED-D3AB-4D63-828A-995A3ADFCF50}
+      IID 170
+      NAME C01-S04-bikeRide.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.09191176470589
+      PLAYRATE 0.08823529411765 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E3028C6-3727-4705-B7D6-00FC81F8B2B1}
+      <SOURCE WAVE
+        FILE "Media\C01-S04-bikeRide.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S04-bikeRide.wav
+      >
+    >
+  >
+>

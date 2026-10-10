@@ -1,0 +1,1588 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1791675113 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 128
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 0.08333333333333 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0.12413871457298
+  ZOOM 43.49972543678371 0 0
+  VZOOMEX 0 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C03\C03-S05-CanDSMix.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 9.33333333333333 9.25
+  SELECTION2 9.33333333333333 9.25
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.67365116373859 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {C7E9F08B-179B-475D-A2D0-F4EB9BCB6069}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {1E56865D-FBA7-4F4A-B5DF-AD1FFEB8A249}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {BBA20403-EA91-4F95-939E-3EEC2D49044A}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {9F521677-ACA5-4E01-A237-E2654C60EA22}
+    NAME C01-S02-HumanBreathing
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9F521677-ACA5-4E01-A237-E2654C60EA22}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E38A460B-DF7C-46D7-B88F-9CBB36D3E9AC}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42CF7DDD-CA4F-4204-A772-6C7F3F7297A4}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {871EE092-7ECF-4D52-AF0C-C8A84C6479D3}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E900FFEF-6EF6-4A78-8048-3FEA116362E5}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AEE871D-FCD1-439D-A95A-F251126626DD}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {573D4491-0D86-424A-8C22-B267DBCE7EC0}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 1.625
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {192E64DC-6405-43A1-81E3-4B4EA7EDC616}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99A119C0-56FD-4ACF-B2C4-45DC0C61349A}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F9017B9-0D7D-4346-AA34-AAEABD2DCCD0}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABFE8841-48A4-4938-81DF-BE193686CAC3}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FDE82B1-DDC9-4F41-8EFB-6A195FA66B75}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.875
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3DA7142-FAE8-4418-A461-51EAA3525EFF}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 3.25
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {132C5F5A-0F63-44A6-A8ED-5392C4D5F57B}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6F2C5D8-B508-49E5-9C53-39E63B4D8286}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 3.75
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BC57886-4069-4069-A3B2-E984B84FFD54}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66A7EA1B-022A-4D4D-B59E-988B56DFBEA1}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 1.81800453514739
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36B3118B-6944-463A-9313-B27979D90374}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CF5489D-6521-4F58-A753-F12709BAEFF9}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+  >
+  <TRACK {8F061C66-5BFB-461E-A8A0-1854633DACAE}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 3.58748434948522 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8F061C66-5BFB-461E-A8A0-1854633DACAE}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0840900F-1CBF-4A48-86F9-6A32D6F7A1B6}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {555A1A21-ECBB-4F07-A652-025310A829F5}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FC9A39B-421E-4773-8DAA-6D8395F9700A}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {039CF45D-4574-450D-9D33-CBF12B58D8B8}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6BF5F6D-FDEA-462F-9ACA-21DB9B16EB04}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CDCE1B9-F923-4A2A-92FE-E0852A7E01DC}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CA617DF-65B8-4130-AB3A-973EF342A703}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F373E1C-B7FE-4541-887B-33B99611E0BD}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB2E51F4-54D5-4180-90C0-FCB8AE98E138}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {583CBDA8-07B2-46D0-B84C-B844DF6A2600}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {130E7C6A-9763-44C2-873F-146C7A68A40D}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A8559A1-A072-44FC-87CA-157958BB7739}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {867251EE-0078-48E5-A32B-EA51B6932A5F}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DE5493A-BEBF-4625-B083-E58631CA2FB2}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECA86849-EB0F-46BE-9124-9A6EA494F0AA}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {161D65A2-34D9-4978-80B6-2B315E646F07}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA639FF3-340F-42BB-BFEE-EA081FE1DAF8}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5B43FE6-0157-4781-A01F-8E7B81550EAC}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8FECE0C-4E2C-4636-ACA7-A8C1074384BC}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87FD8A34-AD2F-4A5C-A072-3E38E12959CE}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2190FCA7-5B08-4EC4-AA93-13364B342385}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC3D3BEA-014E-4392-B4A6-B498DE5E7AEC}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D943C37-D78A-4DA9-99F4-122FF4A9E2A9}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98BE41EE-7D2A-4C16-90BA-607887E36FD7}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E924E4B8-AA89-421D-BB73-9F05455FD2EE}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50A2DFF3-B94D-43C6-9450-CE103163F5E2}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {136131B6-AC7A-4482-8A12-23A1DE5C101B}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD6B881A-21BD-477B-9B18-F60EE871CE4C}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41CE28F2-94A3-4439-B154-3331B6312EAD}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0256D90-764D-4EA4-8276-941121824E05}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACC371EC-9559-469F-8F9F-C833EDB65047}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAC29093-D802-482F-B196-AA889D176D6D}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+  >
+  <TRACK {BD7C9914-CA87-49AC-AD60-195DA0D4A1E3}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.66917422443258 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BD7C9914-CA87-49AC-AD60-195DA0D4A1E3}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {649C1FDB-7356-425F-A04B-C9EDE5AAF04F}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2EBF08C-5B06-416A-92A2-10CD2B7BD53F}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69B2BB58-1311-41E7-8953-B9F8957CA55E}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 2.041485 -1
+      SOFFS 2.875
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84171F8F-D347-4B55-8B35-1370D9E4ED91}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 7.625
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8FAFF7DE-9313-43EB-86B6-130EDD8C8D3B}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0125F8FC-E9B1-435B-BE88-288A60BE7A1D}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 8.25
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00722253046593 0 1 0 0 0
+      FADEOUT 1 0.47749153817651 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD0D7B5E-C439-4B3E-994D-449A46FCE3F5}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1.833522 -1
+      SOFFS 4
+      PLAYRATE 0.125 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {426AC70B-63D2-4B17-B220-059F2F2EB0E9}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+  >
+  <TRACK {F6062A13-C986-484D-9D0A-95A199ABAECC}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6062A13-C986-484D-9D0A-95A199ABAECC}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.25
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00722253046593 0 1 0 0 0
+      FADEOUT 1 0.47749153817651 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE5687E0-B7D7-4FBC-AE93-CD529390404F}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1.833522 -1
+      SOFFS 4
+      PLAYRATE 0.125 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06238FF4-AA3A-4670-BA9D-57CF5C3A5D26}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00623316698623 0 1 0 0 0
+      FADEOUT 1 0.65533818922792 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39336087-25A6-46C8-ACAF-304B42C43E02}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 2.132387 -1
+      SOFFS 4.01458333333333
+      PLAYRATE 0.09375 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14D730D3-D999-4239-AE12-5F26B7FBC3C6}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 4.25
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00722253046593 0 1 0 0 0
+      FADEOUT 1 0.47749153817651 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF359DA1-9EF7-4F9A-B49E-32CCEBAD5D1E}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1.833522 -1
+      SOFFS 4
+      PLAYRATE 0.125 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90D19CB7-E714-4485-ABE9-CE2DB2B75B41}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00623316698623 0 1 0 0 0
+      FADEOUT 1 0.65533818922792 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85AADBF2-90F0-4053-90AE-86E2648FC15C}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 2.132387 -1
+      SOFFS 4.01458333333333
+      PLAYRATE 0.09375 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52AC1AE1-BEA9-437A-9F3A-88FDD15890AF}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 6.24808026385461
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.0064810440413 0 1 0 0 0
+      FADEOUT 1 0.47749153817651 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2126EF3E-3F5C-4F0D-A3B5-5C1B73CAB5B2}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1.833522 -1
+      SOFFS 4
+      PLAYRATE 0.125 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8F39837-7DB3-4879-B96A-AA95D4575225}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00623316698623 0 1 0 0 0
+      FADEOUT 1 0.65533818922792 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26ED8327-3F33-45BB-A372-77C0174DE0FE}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 2.132387 -1
+      SOFFS 4.01458333333333
+      PLAYRATE 0.09375 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7457D52-9252-4DE3-8F20-3483C52BB735}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 7.75
+      SNAPOFFS 0
+      LENGTH 0.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00623316698623 0 1 0 0 0
+      FADEOUT 1 0.65533818922792 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24B4EE23-4310-4E70-88BC-952DCE1352CA}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 2.132387 -1
+      SOFFS 4.01458333333333
+      PLAYRATE 0.09375 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8F2C1F6-E010-485E-8027-5BD4AE063474}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+  >
+  <TRACK {A0715A82-A7C4-439D-BA27-6DE167B1272C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A0715A82-A7C4-439D-BA27-6DE167B1272C}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.14 0 1 0 0 0
+      FADEOUT 1 0.24 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B7F8943-87B9-44CA-9275-950B65888E7B}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAE3BECE-821E-468F-A375-BF981085A7A3}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.14799028787163 0 1 0 0 0
+      FADEOUT 1 0.29 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19E0CACE-BF0C-47FD-A1FB-BF365CEA5ECB}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21E72C4F-2DA2-4522-96D2-D98EFDED676D}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2.83333333333333
+      SNAPOFFS 0
+      LENGTH 0.04166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD1B914F-770A-4796-A630-E4A33A34ABC7}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3ACFF75F-8D12-40A0-94B6-C2E93D413AF4}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {795E0856-8690-4414-BFB9-3DC671CE5007}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.01041666666667
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14B0345E-A08E-45A0-8B50-DAD669AD5419}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 3.25
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.07333333333333 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C25386B-6646-4370-B77A-DBD0500C6107}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.10416666666667
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {277EB6AD-773E-4C68-9A75-D61E6C9BA676}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {496321F3-B2FF-44FD-83C7-FF8670958A87}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 0.08333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2661CA38-54D5-4ABC-A218-1E3DE28F0BA7}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+    <ITEM
+      POSITION 4.125
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.44 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EF0CB51-A20F-4842-B7AA-3C3D83A3099F}
+      IID 239
+      NAME C02-S05-Corona.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC424D67-ED97-4EC1-92E1-E1F0D98ECEBA}
+      <SOURCE WAVE
+        FILE "Media\C02-S05-Corona.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S05-Corona.wav
+      >
+    >
+  >
+  <TRACK {9EF1B320-8C43-4DD0-AFB1-05B0AF267EFB}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.40093814726181 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9EF1B320-8C43-4DD0-AFB1-05B0AF267EFB}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 5.00000000000016
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1837388F-E493-407E-9D84-85FF8509D935}
+      IID 98
+      NAME C02-S01-DSi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.40079818594102 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82E5AD84-BBD5-46C6-A94F-DF8FBB06A17F}
+      <SOURCE SECTION
+        LENGTH 2.00399092970521
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S01-DSi.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S01-DSi.wav
+      >
+    >
+  >
+  <TRACK {EE9C4687-724F-43D5-956D-1141B9E5B332}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EE9C4687-724F-43D5-956D-1141B9E5B332}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4.375
+      SNAPOFFS 0
+      LENGTH 3.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.96567807705128 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F351F903-C8AD-42EC-AF41-D556C6BDB5BB}
+      IID 98
+      NAME C02-S01-DSi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.59377509028301 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {830924B8-DB61-4EF5-8610-C5DA47322A62}
+      <SOURCE SECTION
+        LENGTH 2.00399092970521
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S01-DSi.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S01-DSi.wav
+      >
+    >
+  >
+  <TRACK {4DA88462-E5F0-45C9-8CD6-F8CB4A7CA435}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4DA88462-E5F0-45C9-8CD6-F8CB4A7CA435}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.70859381560182 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6823B574-8115-45EA-9C9C-A621D5C9BB65}
+      IID 98
+      NAME C02-S01-DSi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66799697656839 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B80936B1-FEB6-4E6F-836D-9231D41FC6F2}
+      <SOURCE SECTION
+        LENGTH 2.00399092970521
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S01-DSi.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S01-DSi.wav
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F2040E66-6494-48A0-9152-5CAF5A2631EE}
+      IID 98
+      NAME C02-S01-DSi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.66999244142097
+      PLAYRATE 0.66799697656839 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9931266A-8900-4619-815C-5B7D0116CCFF}
+      <SOURCE SECTION
+        LENGTH 2.00399092970521
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S01-DSi.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S01-DSi.wav
+      >
+    >
+    <ITEM
+      POSITION 3.25
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8ABB7752-5140-4A89-97FA-0CAE1AAAAC80}
+      IID 98
+      NAME C02-S01-DSi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.83699168556307
+      PLAYRATE 0.66799697656839 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {159990AE-69A2-47D2-AE69-C1B0AA673097}
+      <SOURCE SECTION
+        LENGTH 2.00399092970521
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S01-DSi.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S01-DSi.wav
+      >
+    >
+    <ITEM
+      POSITION 8.75
+      SNAPOFFS 0
+      LENGTH 0.54166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05866635476045 0 1 0 0 0
+      FADEOUT 1 0.39989686952372 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5F32450-DD99-4B36-87B9-7C6761BD1DE8}
+      IID 98
+      NAME C02-S01-DSi.wav
+      VOLPAN 1 0 0.472595 -1
+      SOFFS 1.61432602670694
+      PLAYRATE 0.66799697656839 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9CE343C-C5B0-4091-840B-221A4C120A2C}
+      <SOURCE SECTION
+        LENGTH 2.00399092970521
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S01-DSi.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C02\C02-S01-DSi.wav
+      >
+    >
+  >
+>

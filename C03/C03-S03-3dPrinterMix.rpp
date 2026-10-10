@@ -1,0 +1,3917 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1791675147 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 0.08333333333333 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0.25
+  ZOOM 42.73361243459878 0 0
+  VZOOMEX 6 156
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C03\C03-S03-3dPrintMix.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 0 0 10 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 6 0
+  SELECTION2 6 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.57736712470457 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {5FE7166B-215D-411E-9AB8-67F614534043}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {FFF70036-7AC9-4B87-8991-8E379FCA8876}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {BF38E619-AB05-499A-A8EC-6628B7BA758D}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {7188CAA0-5C95-4920-AB9B-B3E4B5CCD785}
+    NAME C01-S05-3DPrinter_Fav
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7188CAA0-5C95-4920-AB9B-B3E4B5CCD785}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10460051-44AB-42EF-8AEB-47ADCDCF9305}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2601B712-80FC-4754-8BA4-78E75790C8D4}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BFF366A-444F-432C-9924-B65976A6676B}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96042E87-FA6D-4973-ABE7-D38644E36BC1}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93F13FAC-8DA9-4F15-818F-93659E12905A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5634BC77-1F62-4C07-938C-101DFB39EB67}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B524E48-D213-4F85-A83B-A0F1AA4C413F}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBF31860-C67A-4025-884A-28FA50F3AF77}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+  <TRACK {D092E5C5-0426-454D-8211-53F0826FE3C2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D092E5C5-0426-454D-8211-53F0826FE3C2}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD8388A7-8451-4601-B6AB-600752E47B34}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB13B53C-DEEE-434F-B75F-0C0BA5334A74}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {78B399D1-156C-4407-93A3-375FBCD95D26}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20BB51AA-FCF1-4D06-A199-656156CF3193}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49D62076-19D2-4E43-A5AA-DDCFCCF330B5}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.66666666666667
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {827D7008-B853-49DE-99E4-2156866CDBDC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3691A124-95AA-4B7E-9963-47C1DF6315A8}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4759882-14DF-4D27-AF29-3F109862E95C}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {562F8821-C430-4F98-862B-6F40EB819574}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D2BCC2A-8470-494D-AC2A-152CB0ECF7FC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DEA89B4-F91C-4141-95A4-D3592C381E69}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 2 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCED390F-236C-40BE-8E2A-BE581690F4C8}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05B8BBAE-BDAA-425A-9F29-F04FCC728D40}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 2 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {226B346C-79B8-422B-BCCE-34BF0954B5EC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86C388EF-D521-48F3-A389-9428FD8409EE}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93E682A3-17D7-4DEB-8F22-874D745533B7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BD430E7-E1F6-4C33-8E64-6D1F061743C7}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B8AEC29-6C99-4D04-8BA4-D4A7C7EC919B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65843A9C-5597-4AD4-BE40-BB0FB18C6531}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B2DBD2A-4AA7-4504-9469-307480FA1FE5}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+  <TRACK {014B5B5F-E5F0-473A-BB3F-18ECAB7EB2D0}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {014B5B5F-E5F0-473A-BB3F-18ECAB7EB2D0}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {D724A4A9-CA65-4740-8411-06CF64D8F02F}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 1.375 0.03019952 0
+      PT 2.125 1 0
+    >
+    <ITEM
+      POSITION 1.125
+      SNAPOFFS 0
+      LENGTH 1.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.75 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0942B8B7-C0EE-46EA-A8BB-1DAC03A251F3}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.14285714285714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1F2563E-D02F-4D07-A305-CBD714BD833D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.875
+      SNAPOFFS 0
+      LENGTH 1.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {352B98A8-C682-419C-9921-1C04E0DA5160}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.14285714285714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB53CD47-4D43-458F-9D7D-D43456118DCD}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.625
+      SNAPOFFS 0
+      LENGTH 1.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E635063E-402F-432A-9CB5-73916EC54D76}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.14285714285714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCBC0645-A327-4E53-A9E3-BA22853B7E42}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.375
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {629E93FD-0849-47ED-9506-796E570D48D0}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A879A08-618C-471D-8262-3072E274D7CF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.875
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8EB41752-5F5C-41FB-8AFA-264476D0BF90}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 2.66666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B70A680-0DC4-4DC6-A58A-4E7D03FC4B64}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 008.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F5E998A-9134-48A6-A426-C9FB02E83EE9}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 008.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.375
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5386F03E-1876-437D-8489-43315BD8F146}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 2.66666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3BDBC26-1A9F-4BB8-8758-B82CC40D1ACC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.75
+      SNAPOFFS 0
+      LENGTH 0.375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC904FBD-1D9B-4BB4-8855-1CE7AA92CED0}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 2.66656000426651 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13887396-7AE0-464B-A1A7-E08E705CB4A9}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 009.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426651 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {145137A9-9FE5-494F-B003-1D6F7EF4555F}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 009.wav"
+      >
+    >
+  >
+  <TRACK {9640A676-2C3D-4775-881D-5ADC452826F9}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9640A676-2C3D-4775-881D-5ADC452826F9}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.75 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DE7932D-B601-4E04-B234-56F2CE9376F2}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3F6F185-491F-49AA-AE75-EA90E4E957A4}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.75
+      SNAPOFFS 0
+      LENGTH 0.125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77F34DC8-912F-4FC2-A7E5-8EA557B84E64}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F31C4555-5DFE-4312-A726-7D624EAD528E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1.875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B426DA3B-AEA1-4F93-89B0-0C44F3C75B98}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {900857A0-07B1-4EEC-AEB4-26A1600AB335}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54203231-547A-49A2-AECE-D80CC76D5E6A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87F2B4FE-7AE6-4368-ACCF-B69EEA8D5BA0}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97F02A99-16BA-4891-851B-204765B68208}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40271BA5-1754-4EFA-8281-2F4966772B87}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AF08D15-D1AC-443E-9B2D-72ADEF6D76C3}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE831F93-3134-4DA8-9C9D-43797982A4B3}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.05466713935226 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4C11F0D-036A-4F3F-9D62-FD23F1022746}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {701973BB-17F1-45D6-9A95-1B585BCCD31C}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+  <TRACK {9D0F4A9E-D01C-4309-8CFD-E81BD689526D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.24447656050475 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9D0F4A9E-D01C-4309-8CFD-E81BD689526D}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {805D7B48-A8EA-44EC-BD95-B391DEC5606A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CFA5883-A9D3-4C8D-A90A-0EB486BE7A93}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48AF8046-4B28-47E9-83A3-6FBA5ACFCE0D}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.625
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DD6D8CB-55F1-4778-B02A-E9BD639FACA2}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {102F8E01-98ED-4ADB-8858-7195CD6315FB}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {676A03CA-773B-4DB3-9CC0-289B2E460F84}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.00000000011642
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {082D4116-EA59-4B5B-BFB4-7D52B5751AE3}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3AA8DA64-1AA5-410D-B27B-C382950683DF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CF6AF4C-1E5D-4707-BEE5-01CEE2EFF4F7}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B120523-79D1-458B-8501-33E9E6A024F8}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2FF8187-8C8A-4447-B5BF-50307B1189C0}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {915368E8-9500-4849-82FF-EDC9801EB46F}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.62499999988358
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44745AC9-9B0C-44BB-A34D-6F1ECB00D638}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C79EC30-F7C5-425C-90AB-8117044E6D97}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E33607AD-882C-4153-9FEA-397AF108FF8C}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {166AEFE8-9C95-4872-95F6-5F69ABC4CA8D}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C994092A-E83D-40EA-8CD1-070E704E9C13}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3A1F855-F1AE-4ED2-8133-74719897DB49}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64946465-9D3A-4E40-BC33-8BCB79D0620B}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426642 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E97085E-BDF4-4B4A-8FC4-E46CC56CE161}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426642 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C41C76D1-6D86-474D-B8F3-CFEA0E617FD4}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.62499999988358
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD380CF1-2B54-4F37-AA3D-D9A2E23FC409}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426642 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69248D21-FE76-4A41-9E7D-4EB3D0F9E267}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426642 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B04CB536-113E-48B4-B0A9-E4B90B4EC5C0}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {772D4BA6-9F0E-41EF-BD91-5DCB26DC94E9}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426642 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16F262D1-21B3-4B6C-B9DC-DFB174EE3465}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426642 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8C2D28B-B3A9-4C7F-8321-82E891D535AA}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C24A5986-B642-4588-8057-DC532342B260}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426641 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D63A99C3-77B2-4004-8905-0D5515BA2A36}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426641 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12033016-9F1C-49F4-B177-E30D449E71CB}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.62499999988358
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58589F1B-76AA-4FE0-B4B2-687BA1DBB526}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426641 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6471D027-3CF9-4C7D-8B49-22E4BF6E1B60}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426641 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E93970A5-1632-4805-B1CB-8D206EAE2DCB}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6900F33-CB14-482A-8205-A2E73D7349A2}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426641 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA042576-23F5-4DC1-9424-7680EB875EDB}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426641 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCCF0F5E-D12A-4DED-8CA2-F3FA5A164A1A}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.625
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0606044-4723-4C84-BCB1-DE4A91025B9B}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEBE8470-9FB9-436A-BAC1-B700521B6AE6}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99932091-51EC-49D5-89E1-293FE7332127}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.74999999988359
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD49E340-C30C-4483-B974-C287729C4E29}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41968F45-493E-4C3F-B158-39DA6FF14C4E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AD635BA-8790-4437-96A6-A7426895D08D}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.125
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9F9E8A5-3694-41B9-9BA6-1D143916DE20}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A10F8611-1EB6-4B7E-A343-DBDD588B86E2}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25E66046-1C20-4CEA-B1D4-4F740112333A}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.375
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC7997BD-3267-4CC3-8B9B-55DDDC3B51DE}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29A19788-6AB6-4F68-8062-A35CB622B5F0}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0CC1256-9B4D-4033-8F05-C0D2D0B21ABD}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.49999999988359
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E89A16CB-B10B-41D3-81D0-4A830D2354F5}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD3ADF71-7A92-42FB-BC09-31080ABC473A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A51B781A-DAA9-4621-8786-C558DE7E7D17}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.875
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7312219-E77E-4CF6-96C9-5A4104F345A8}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA612632-BDF3-4E0A-A35A-845ED8094A7B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {442238A4-7A12-43F6-B0E2-6410C7DAD125}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+  >
+  <TRACK {8923D87F-96E4-4678-887E-33FC32FF1C56}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8923D87F-96E4-4678-887E-33FC32FF1C56}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.75
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.11790739518932 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91E535EB-A3B9-46D0-8F01-17AA18529B20}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 0.66664000106657 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B960923-17A7-4511-9B55-4F27972B5B89}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66664000106657 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13B0367A-E51B-4B55-A2F8-1E8CED7859F3}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.75
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.11790739518932 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06CCD800-6E6A-4027-824C-E2C245DCB44A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 0.66664000106658 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1B23933-61A9-4B96-A1A3-D45FD8DB1DDB}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66664000106658 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EAF4012-FBC1-412A-902F-A66BD1AC274E}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.11790739518932 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F78DCB7-A923-4CCD-A23B-6751EF3E97F3}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 0.66664000106657 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B5C9887-68CA-4DBA-8B76-322AD8677498}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66664000106657 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C69CBFA-8D1E-4D07-97DC-FD4FE9F50F16}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.11790739518932 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4B2BA0A-DFFB-425A-8408-822118481F1D}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 0.66664000106656 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {936148E0-5CFD-4CF4-A404-57E2C27BFE79}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66664000106656 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD7FA5DB-7711-4C61-9190-2826B40DC124}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.75
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1.1 0.11790739518932 0.08333333333333 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF7E5461-3F2E-4501-B70C-2742239AB8BD}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 0.66664000106656 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49D1D91A-522E-4033-A38A-72E4E73C4B59}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66664000106656 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A51469E-345F-4DC4-97E7-BDCEF5603909}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01584672579334 0.08333333333333 1 1 0 0
+      FADEOUT 1 0.11790739518932 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F95B3286-C14A-4318-A10B-ACD6AEC02346}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 0.66664000106656 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7217E88-EAD3-412B-9370-A3E525783D66}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.66664000106656 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5371C4DF-93B9-4D27-A7A8-4B5AEF878714}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+  >
+  <TRACK {1F83E00D-780D-4FB0-AE08-CEDC8F29C7D8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1F83E00D-780D-4FB0-AE08-CEDC8F29C7D8}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
+  <TRACK {0BBEBFD8-CA01-4A33-A1EC-7ABAFD8E0B8D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0BBEBFD8-CA01-4A33-A1EC-7ABAFD8E0B8D}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.25
+      SNAPOFFS 0
+      LENGTH 1.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.29764682971542 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A35F0471-F202-4BDD-87D0-D66F8088FA47}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.14285714285714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B74AE18-6F5A-493E-8AD0-F330DC1F67E4}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.625
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FA5B5BA-155A-41DF-A532-FEFBBE68C4C0}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {946DE8A4-9CAA-49E7-B2B6-241B02003C0E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68BC369F-4E08-4A0A-BD3E-45081CA27BE6}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82BBD158-F814-48F8-9AD2-12A7742BB79A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.25
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9353F92-357B-4555-B3DF-DF5EEC0F5197}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 2.6665600042665 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F18ED56-40B3-4C68-8CB8-01FAB771734B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.625
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {518445A1-E470-4A35-8754-6F8DD727CB8A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639975 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91329B4F-813E-449D-8C6C-0F0829C1961E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38651349-F3F7-4DD1-A3F8-E1DB119615EE}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639975 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4F17E41-CC10-49B3-8492-218140C5CD06}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.375
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3FE032C-8267-4E45-910D-B941B942853D}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D79C7BA-D262-405A-8CBB-4E7F2AC3D531}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B50C2DA4-DEDF-4001-B282-BAE1FFF7DC03}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {780CED12-1C00-4CC1-BEF1-ABDB1A7F99DE}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.25
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6855E42-A574-4FD1-9E83-03695484D4E3}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30F3D9B9-165F-4E1B-8385-8E396700AC9F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.5
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4122139B-63B2-4287-B572-807293F664D8}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25D51A56-CF6D-4866-B665-4FBEDBD02C83}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.74999
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62BF8FF6-3535-480A-8297-0FF1ADBA9D3C}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 2.6665600042665 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E23B91E-9820-43F4-9512-DF900CB6FABE}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.12499
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {922146A1-496F-4214-BA69-349B902038F7}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47AE8EE4-E4D4-4FAA-B3E3-A3E40EEABF9F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.49999
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {064D9B9A-742B-40ED-8651-F2AD0D3C39E0}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8704B001-F7D8-4D35-AA4C-4EFEA86F9803}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+  <TRACK {6AFA1B6C-1B58-41A2-8075-6CB0E54B0D33}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6AFA1B6C-1B58-41A2-8075-6CB0E54B0D33}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.2499999999612
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5DEA8F7-6801-4ADC-A7F6-DD8703DB64E9}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FE4C2D7-92A4-40EA-B523-6F18FD21F280}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B381F625-7DA0-4B80-9424-579282E6CAF6}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.58333333329453
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFD19E31-6C14-4B7A-806A-77795D6B6B13}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AC539FD-BA5B-4559-9E55-B68423A62A19}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83A199E5-CBC7-4121-929C-C45386EA2C8E}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.8750000000388
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A4E6287-D1DD-47F8-BEF7-6DCB7C68D91C}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB893A71-9486-4D38-A5BC-57787E1D4F5B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65493722-9C2B-4381-8ED2-1D317E69A06D}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.54166666666667
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A4288FB-3CE5-4D91-9A36-5C14FBB34A06}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD9ECA82-EAA1-49EE-AC00-898D405C7BF7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F9D6976-6D1D-412A-BD87-37B6EB5D427B}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.83333333325572
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B50F57AD-5623-41AC-9102-BC6520F97DB1}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1F566A1-0A51-49C4-A1BC-AB83359F6AE5}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {759E600C-D0C2-4260-806E-7AAAB33A084D}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.16666666662786
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3EBED4DF-4E8A-4BA5-93DE-982DFDC13391}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C883F4F3-C458-4183-BCD2-16B4971E936F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB44E52B-E24D-41A2-9862-03C5E0284686}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.45833333337214
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F7743EA-00D9-4E13-AD48-ACA493B9031B}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A182000-44D7-40B1-AAA4-31FE9DF8296E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF0DDD93-03AB-4D3F-B547-63804D7DC23E}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+  >
+  <TRACK {71B96237-A6F9-4538-8648-3AE227444C5C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {71B96237-A6F9-4538-8648-3AE227444C5C}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.125
+      SNAPOFFS 0
+      LENGTH 0.16666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01987406583025 0 1 0 0 0
+      FADEOUT 1 0.12688272720931 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0624173-4E9D-4514-893C-2C8C329186EA}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93234301-436E-436C-8994-9EDDAA8711AF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 007.wav"
+      TAKEVOLPAN 0 2.153066 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33ECA069-B1A6-4CA6-9647-6E0BE4A0AF50}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 007.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.625
+      SNAPOFFS 0
+      LENGTH 0.16666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01987406583025 0 1 0 0 0
+      FADEOUT 1 0.12688272720931 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94BFAD0D-908A-414A-B832-3AF4B599A25C}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64B501B0-3F74-423C-B342-0D3A0560CBFD}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 007.wav"
+      TAKEVOLPAN 0 2.153066 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {311F2000-5FD0-4CB8-9CD3-0D78B7C011C0}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 007.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.875
+      SNAPOFFS 0
+      LENGTH 0.16666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01987406583025 0 1 0 0 0
+      FADEOUT 1 0.12688272720931 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDAD311A-D33F-4C56-A688-C0923425F916}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C02D7CCA-6DC2-405F-B701-70E7B060E01D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 007.wav"
+      TAKEVOLPAN 0 2.153066 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0101F2F-69CC-42B6-876F-39F9B8292981}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 007.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.70833333333333
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B38B3106-4D52-4B58-9D16-C7D38834F815}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3724CF2-C6F8-4503-BDAD-D996326990C8}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32ECB703-31D2-4680-8C3E-06BE15D0CAA3}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.99999999996119
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {271130A1-5879-496A-A882-304AB33A50F6}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FFC79D9C-8A51-49D7-A62D-21929B277947}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89DCFF89-147A-47DE-AF53-C12533BC152E}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.95833333333333
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D14BA29-43D0-40C1-8A78-A7EB1B470FC7}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A072F05F-4062-4DFD-8F06-A521EEB2142E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A73BEC3-B34D-4EF9-B5BB-4BA39C959FF0}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.24999999996119
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59AE3C61-098F-4DEF-8C08-A01EE8B7A167}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66F7F234-6448-456B-9FA5-D4EC9D144386}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD72FA08-EF87-4A2C-8526-C6CBF7648146}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+  >
+  <TRACK {689DACD5-CF70-4360-BFD1-1441552D1F8A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {689DACD5-CF70-4360-BFD1-1441552D1F8A}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.25000999995973
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C921768-0E95-4A8B-8088-FEDDB8C9AA6A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6E1BF0E-49F7-4B80-9FE0-A7158DE2957D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.00002000003587
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0980056-63E9-429A-86B6-A8A793A5C915}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639975 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D13ECC0C-7E74-46A2-8C06-0E809C841A8B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {898E0175-A473-43E4-8E3A-3FB615959A69}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9D13B14-B7C2-4339-BBE1-8D4DB561E2A5}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08CAEE6C-3D16-46C1-9A95-B0EF257ED9F4}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1253983D-C721-4B11-99AE-04DC9CD112EE}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4AD8A1B-624E-459D-8836-E51FDC1DFBA9}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2D5E64D-C52F-47F1-BEFA-13FEE31439E6}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F863B59-1A09-4491-998E-8774C5912C02}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.16666666666667
+      SNAPOFFS 0
+      LENGTH 0.08334333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E2FDEBE1-A5E9-4C0D-BBFA-B100AFAB13BE}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.44442666737775
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8402E0D3-2976-4D7E-822E-7ACB6B074172}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 006.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.6665600042665 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D14D980F-0F3F-4388-8D64-7B21E374FAE1}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 006.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8065A57F-1AC1-4CC1-8204-74D0EDA98A82}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639975 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A641777B-2996-4324-AB93-6EE70FFB156D}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85AC3227-A722-422B-831D-C8F0E3AB5504}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.33333333333333 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B9B2409-6E99-4985-9865-D866A0648A55}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.83333333333333
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1994CA87-479B-452B-9EA3-94E2B6FB0CAB}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {124A7A77-BE30-4B48-8195-523D3AFECECC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.20833333333333
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.19396826524553 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3542F948-C459-486C-82A2-7C02106C0EDF}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.46666666666667
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5159D88C-FE90-4FFB-9B06-E43D71B936D7}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.125
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2443DFD6-B52D-414C-8E73-0F90CB080CE9}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B8CFD17-72CA-47A3-948D-8B403A1F50DF}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.41426918471097
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C391772-FE1D-49B8-9753-819E918FA589}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {366B206B-8113-4D17-AF6B-C0FC4D0047ED}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.37499999996119
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C27141C6-A419-4533-84AD-21401EA86F24}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4A37799-6BB3-41E8-A587-60F734EAFC5A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.66426918465489
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3A33C9D-142F-4C1A-B613-DD9FAAACA492}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DCA1224-ECE3-468E-BF02-D4E3431D0754}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+  <TRACK {AF3714EF-40CC-4DE3-BE6D-27F468AF0370}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AF3714EF-40CC-4DE3-BE6D-27F468AF0370}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {820D369F-FAB7-4371-B046-1988BA33E2A5}
+      ACT 1 -1
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 1 0
+      PT 4 1 0
+      PT 5.125 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.21260487836816 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5DAD3D1-A241-4700-AF41-0E5B231F2395}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39DE9B80-E724-41EA-83C0-8955CD6B9D72}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.25
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1242196D-93B8-4186-B799-BE7DB5C98801}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13498845-2D32-48AE-8E71-182C7B3BFEA3}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8387F3B-9D22-437C-BE6C-61A6C9A4836C}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64C460E1-A906-4399-B65D-A118EFF84F1B}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.75
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54975BC4-8ABE-4954-91E3-36C9A6E7473D}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 2.6665600042665 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4A18C55-E33B-4417-BE8B-0AC798B20EC4}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.125
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3714E55D-9908-4CEE-9C44-CA990D35E364}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639975 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F0A38F9-4CC0-47E6-A114-DD6C1F896131}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E499D6E3-5856-4B44-B164-AF9853522594}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639975 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A7EC82D-0E38-49D1-926F-52E7F7387A88}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.875
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6D24E57-83D3-43C3-8A13-44EED3936965}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A876558C-D528-4115-ABEA-3CF683C94D0A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.12501
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FC6DFF3-1682-4DD1-A4D8-402C18D0A3FF}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01FA0348-AB47-427A-B8FF-EAE0F02D5D8E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.37501
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F4AB88F-033B-43F6-B433-E2E7410D2C2C}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3660978-D6AD-48AD-AF16-5E7A0DB97F3F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.62501
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D09B360F-544D-4D42-8534-AA1DD48910D4}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2376552-C5B2-4F4D-8E48-5A5BD70E8A10}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.875
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B05834E8-14D1-4942-AC66-B6A61C6D30D4}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 2.6665600042665 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3CF9506-9AB4-4B8A-B9C6-DA44CDA6FB6E}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.25
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {76F37E59-DB76-4148-B3BD-CA9EDD0DC910}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31497A5A-2CFD-448C-B84A-A64FE1C77A8A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.625
+      SNAPOFFS 0
+      LENGTH 0.25001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E94DE2C1-5F9F-499D-94D4-E01D40DA55AB}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F365382F-E12B-4C29-A082-EEBA059F0044}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+  <TRACK {D712DDDB-0A85-4C74-989C-B6FA3534FB14}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D712DDDB-0A85-4C74-989C-B6FA3534FB14}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.95833333329453
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2779C1EE-266C-449F-B099-AE9911FE88A4}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426649 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91E69262-44EB-48F3-9B8F-4672FF672CC6}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426649 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98DD1FFE-FF55-4C0F-ABB2-243F507697E6}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.75
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9252F98-A958-440F-85CC-2AFC351DC1FC}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16775136-E32E-4B02-A8AE-5636BA202988}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AB0EE8D-2D18-487A-8153-2935BA5B8AFB}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.20833333333334
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2106BDD6-A6F1-4561-8F2B-06A214D2A05D}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426647 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7532E4FE-0514-4809-A904-9165507B7FC5}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426647 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC3F1F12-101B-465E-9921-6320B7C93B67}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.33333333329453
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6200E40E-074B-4CE4-9BCD-C642E3BC3693}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426646 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8214F3D-E5C3-4F3D-BAA9-875093BD91C2}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426646 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4751C5D2-CE96-41C5-8218-B860A3014E98}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.75
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12F962FF-B122-4340-85FB-2C6D8EF2AE8D}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426646 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44863B4E-A9A6-4EB3-A9AD-F6EDFFE44C6A}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426646 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A13D743-ECE9-4155-B42C-BD599661D7E3}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.87499999988358
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38A227DC-FF02-410A-B090-175D4B5AA48F}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4740F5B-C12E-4EC0-9D17-A8B4D5D99D28}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55EE0D2D-5A61-4AD9-81F6-0FE03BCC6F07}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.25
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDE95509-199B-40B5-A3B1-F9C1ADD5C755}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426646 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F65C49BE-2BAA-433E-B67D-B3DC1CE30B78}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426646 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9F28E40-92B7-4571-82BC-E473F1B271CD}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.04166666662786
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B23526DE-34BE-4C2B-885C-58D1554CCFF3}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F59EE09F-A6C1-4F8D-B162-9911754B21E2}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6481454-FF44-46F1-B1E2-44DD67E1A18B}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.16666666651145
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {081DB183-2B86-4695-8DA8-417555650BD1}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA00E10C-C7E6-4F02-8F16-CD324819B7F2}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFCCA64B-5B25-4453-861C-021D543A9C2F}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.54166666662786
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94D64494-A1B8-49C7-860B-198FC91DFA83}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72613465-6E21-4F57-90C4-4260D667CA94}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426645 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {007971CA-40B6-4560-A24D-F26495A11C5E}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7FAF4C28-0FD6-45B7-B488-36CD996DEF30}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77671F98-9CAA-4C4B-B033-CB7EED092718}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0D7BA70-DC9A-43C0-A92D-D4A35CC9A35A}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.12499999988358
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8544D08F-0A3D-4661-8CA0-E8994BAFF107}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {272DB61A-F1E5-4650-9F14-C8F0A5ABECE4}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE SEL
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426643 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78C793A0-837A-4588-AF53-7174DAA38072}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.08333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01584672579334 0 1 0 0 0
+      FADEOUT 1 0.02947684879733 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {565D3607-82CD-4CCB-A802-A2285F7156CF}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.11110666684444
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53BFB959-2329-4E96-8811-C0FCEB5E937F}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+      TAKE
+      NAME "C01-S05-3DPrinter_Fav reversed 005.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 2.66656000426644 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {370E1B63-BDF9-471A-B815-72276D4CA7AD}
+      <SOURCE WAVE
+        FILE "Media\C01-S05-3DPrinter_Fav reversed 005.wav"
+      >
+    >
+  >
+  <TRACK {C33A215A-48C4-451D-AE7E-C6320E962FBA}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C33A215A-48C4-451D-AE7E-C6320E962FBA}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.04166666666667
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FC93FCD-DC07-4DF4-9A60-C8F7D90B55CF}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {539B3829-0F9E-4CAB-ADFA-EEDFF0172F85}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.37499999992239
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CECB464B-81D7-41E7-8F2C-60F99E56EA69}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {286E3B0B-5B93-4375-AE1F-E52E3C058255}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.66666666666666
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {71D05DD5-0CC4-48B8-B155-4A41309F0170}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA90BAD0-F215-46D4-90AC-7F684D9ACD51}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.625
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {903438E5-93D2-49B6-AAEA-318586E700BA}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2470F126-161A-4FA4-91FE-F6301C0C6120}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.95833333325572
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {473D5696-5A13-4849-9448-A3CC21729419}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C73F8B4B-9085-4CFD-81A7-9EB6FA2F05FC}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.25
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6091021D-D909-4C87-B41E-8F1434DA19CB}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B9F62A2-3780-420D-A9A7-728B4C4A5942}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.91666666662786
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49A6F20B-A6FB-41A5-AEAE-CBB4FD443512}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {240F34E3-62CF-4320-9F12-5A0E3D67BC54}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.24999999988358
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5E037A6-DC5B-4568-8A1B-0453C220E36A}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {297F29B8-88FC-4A67-99E4-F5E84938F8CD}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.54166666662786
+      SNAPOFFS 0
+      LENGTH 0.29166666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.17444441934858 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C8132B3-AACB-4145-80BF-89276FBF387F}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69433CB3-13B2-4EFC-8887-9E71837EEE18}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.875
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {066C6DC2-FCEF-4A59-AD2E-9D6F73020361}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C68ABAB-BA5D-44E3-8081-DBE419419322}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.70833333337214
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03531342860978 0 1 0 0 0
+      FADEOUT 1 0.25820015746933 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9921CF0-7EEB-4ABB-B910-FE9C40716DE4}
+      IID 319
+      NAME C01-S05-3DPrinter_Fav.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 3.99984000639974 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B0C2092-A87B-46E1-81F8-BE0656B88537}
+      <SOURCE WAVE
+        FILE "C:\Users\Tolea\OneDrive\Desktop\skool\Concordia\fall2026\CART346-DigitalSound1\OSaD\C01\C01-S05-3DPrinter_Fav.wav"
+      >
+    >
+  >
+>
