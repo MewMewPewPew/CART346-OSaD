@@ -1,4 +1,3 @@
-For Freesound sounds, give the author, title, link, and licence.
 
 ### C05 sounds sources
 
